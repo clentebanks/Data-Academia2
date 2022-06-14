@@ -1,0 +1,86 @@
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\Data University.dll.config
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\Data University.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\Data University.pdb
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\csc.exe
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\csc.exe.config
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\csc.rsp
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\csi.exe
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\csi.exe.config
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\csi.rsp
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\Microsoft.Managed.Core.targets
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\System.AppContext.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\System.Collections.Immutable.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\System.Console.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\System.Globalization.Calendars.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\System.IO.Compression.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\System.IO.FileSystem.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\System.Net.Http.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\System.Net.Sockets.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\System.Reflection.Metadata.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\System.ValueTuple.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\System.Xml.XmlDocument.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\System.Xml.XPath.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\vbc.exe
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\vbc.exe.config
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\vbc.rsp
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\VBCSCompiler.exe
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\roslyn\VBCSCompiler.exe.config
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\Antlr3.Runtime.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\Microsoft.Web.Infrastructure.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\Newtonsoft.Json.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\System.Web.Helpers.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\System.Web.Mvc.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\System.Web.Optimization.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\System.Web.Razor.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\System.Web.WebPages.Deployment.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\System.Web.WebPages.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\System.Web.WebPages.Razor.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\WebGrease.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\System.Web.Helpers.xml
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\System.Web.Mvc.xml
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\System.Web.Optimization.xml
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\System.Web.Razor.xml
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\System.Web.WebPages.xml
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\System.Web.WebPages.Deployment.xml
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\System.Web.WebPages.Razor.xml
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\Newtonsoft.Json.xml
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\Antlr3.Runtime.pdb
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\es\System.Web.Helpers.resources.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\es\System.Web.Mvc.resources.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\es\System.Web.Optimization.resources.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\es\System.Web.Razor.resources.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\es\System.Web.WebPages.resources.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\obj\Release\Data University.csprojAssemblyReference.cache
+D:\github\DATA_ACADEMIA\Data University\Data University\obj\Release\Data University.csproj.CoreCompileInputs.cache
+D:\github\DATA_ACADEMIA\Data University\Data University\obj\Release\Data University.csproj.CopyComplete
+D:\github\DATA_ACADEMIA\Data University\Data University\obj\Release\Data University.dll
+D:\github\DATA_ACADEMIA\Data University\Data University\obj\Release\Data University.pdb
