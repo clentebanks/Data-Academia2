@@ -1260,10 +1260,12 @@ header {
     z-index: 2;
     min-height: 660px; }
 .about_top_wrapper .items_shape {
-  margin-top: -230px;
-  height: 550px;
+  /*margin-top: -230px;*/
+  height: 350px;
   position: relative;
-  z-index: 1; }
+  /*z-index: 1; */
+
+}
   .about_top_wrapper .items_shape:before {
     position: absolute;
     content: "";
@@ -1285,24 +1287,31 @@ header {
     background: linear-gradient(-125deg, #e6793b 0%, #c9270e 100%);
     z-index: -2; }
 .about_top_wrapper .story_about {
-  margin-top: -150px;
+  margin-top: -280px;
   z-index: 9;
   position: relative; }
-  .about_top_wrapper .story_about .story_banner {
-    height: 550px;
-    width: 550px; }
-    .about_top_wrapper .story_about .story_banner img {
-      height: 100%;
-      width: auto;
-      border-radius: 50%;
-      border: 10px solid #ffffff; }
+    .about_top_wrapper .story_about .story_banner {
+        height: auto;
+        width: 350px;
+    }
+        .about_top_wrapper .story_about .story_banner img {
+            height: 100%;
+            width: auto;
+            padding-top:5rem;
+            padding-right:5rem;
+
+            /*   border-radius: 50%;*/
+            /* border: 10px solid #ffffff;*/
+        }
   .about_top_wrapper .story_about .about_story_title {
-    padding-top: 250px; }
+   /* padding-top: 10px;*/ }
     .about_top_wrapper .story_about .about_story_title h2 {
       font-size: 50px; }
     .about_top_wrapper .story_about .about_story_title p {
-      padding-top: 40px;
-      padding-right: 15%; }
+     /* padding-top: 20px;*/
+      padding-left: 25%;
+      color:#ffffff;
+    }
 
 /*=======[ Index Up Comming Events ]========*/
 .events-area {
@@ -2991,7 +3000,7 @@ footer {
       width: 100%;
       position: relative;
       z-index: 2;
-      min-height: 660px; }
+      min-height: 360px; }
   .about_us_thinking .title {
     padding: 220px 30% 80px 4%;
     text-align: left; }
